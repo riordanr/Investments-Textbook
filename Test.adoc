@@ -8,13 +8,7 @@ v1.0, 2003-12
 [dedication]
 Dedication
 ==========
-The optional dedication goes here.
-
-This document is an AsciiDoc multi-part book skeleton containing
-briefly annotated element placeholders plus a couple of example index
-entries and footnotes. Books are normally used to generate DocBook
-markup and the preface, appendix, bibliography, glossary and index
-section titles are significant ('specialsections').
+This is the dedication for the new collaboratively created investments textbook.
 
 NOTE: Multi-part books differ from all other AsciiDoc document formats
 in that top level sections (dedication, preface, book parts,
