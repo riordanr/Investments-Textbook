@@ -1,13 +1,13 @@
-Multi-Part Book Title Goes Here
-===============================
-Author's Name
+Investments
+===========
+This is me, the author!
 v1.0, 2003-12
 :doctype: book
 
 
 [dedication]
-Example Dedication
-==================
+Dedication
+==========
 The optional dedication goes here.
 
 This document is an AsciiDoc multi-part book skeleton containing
