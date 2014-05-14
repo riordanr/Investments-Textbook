@@ -27,8 +27,6 @@ NOTE: Preface and appendix subsections start out of sequence at level
 2 (level 1 is skipped). This only applies to multi-part book
 documents.
 
-
-
 The First Part of the Book
 ==========================
 
