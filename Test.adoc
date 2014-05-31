@@ -157,6 +157,7 @@ A glossary term::
 A second glossary term::
   The corresponding (indented) definition.
 
+I am editing this file from Textmate automagically.
 
 [colophon]
 Example Colophon
