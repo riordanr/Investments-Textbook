@@ -41,6 +41,8 @@ The First Chapter
 Chapters can be grouped by preceeding them with a level 0 Book Part
 title.
 
+Revision 1. Please accept.
+
 Book chapters are at level 1 and can contain sub-sections nested up to
 three deep.
 footnote:[An example footnote.]
@@ -96,6 +98,8 @@ This is the maximum sub-section depth supported by the distributed
 AsciiDoc configuration.
 footnote:[A second example footnote.]
 
+Revision 2. Please accept.
+
 
 The Second Chapter
 ------------------
@@ -103,6 +107,8 @@ An example link to anchor at start of the <<X1,first sub-section>>.
 indexterm:[Second example index entry]
 
 An example link to a bibliography entry <<taoup>>.
+
+Revision 3. Please accept.
 
 
 
