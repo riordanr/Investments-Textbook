@@ -15,6 +15,7 @@ in that top level sections (dedication, preface, book parts,
 appendices, bibliography, glossary, index) must be level zero headings
 (not level one).
 
+This is the Robby edit version. fixup! 
 
 [preface]
 Example Preface
