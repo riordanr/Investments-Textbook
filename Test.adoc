@@ -3,7 +3,7 @@ Investments
 This is me, the author!
 v1.0, 2003-12
 :doctype: book
-
+:toc:
 
 [dedication]
 Dedication
