@@ -1,1 +1,74 @@
-This is the outline.
+:doctype: book
+
+= Investments Textbook
+
+== Introduction
+=== The Actors
+=== Terminology
+=== Notation
+=== Basic Goals of Investing
+  This is a new part of the document.
+
+== Securities Markets
+=== What is a security?
+=== Types of securities
+=== Why do securities trade in markets?
+=== Types of markets
+
+== Equity Markets
+=== What is equity?
+=== What are the different types of equities?
+=== What are the pay-offs to holding equity?
+=== Who buys and sells equities?
+
+== Fixed Income Markets
+=== What is a bond?
+=== What are the features of bonds?
+=== What are the pay-offs to holding bonds?
+=== Who buys and sells bonds?
+
+== Derivatives Markets
+=== What is a deirvative?
+=== What are the features of derivatives?
+=== What are the pay-offs to holding derivatives?
+=== Who buys and sells derivatives?
+
+== Asset Pricing
+=== What is an efficient market?
+=== What does mean-variance optimization mean?
+=== What is the CAPM / APT?
+=== What is a mulit-factor model?
+=== Does human behaviour affect how we think about market efficicency?
+
+== The Empirical Properties of Security Returns
+=== Are returns normally distributed?
+=== Are the returns of equities, bonds, and futures normally distributed?
+=== Tests of the CAPM / APT
+=== FF 3 and 4 factor models
+=== Liquidity factors
+
+== Trading Financial Assets
+=== Does trading have an impact on portfolio returns?
+=== How do you evaluate a market?
+=== What is an intermediary?
+=== How liquid / efficient is a market?
+=== How can you trade assets to improve your long-term investment returns?
+
+== Portfolio Management
+=== How do you evaluate risk and return of a portfolio?
+=== What is diversification?
+=== How do you build a portfolio?
+=== How do you evaluate a portfolio?
+
+== Risk Management
+=== What are the different types of risk?
+=== How can you identify risk?
+=== What is the role of a risk-manager?
+=== What are the most important issues today in risk management?
+=== Do risk models do a good job of quantifying risk?
+
+== Regulation
+=== Do we need to regulate financial markets?
+=== What is the principal agent problem?
+=== Who is regulated in a financial market?
+=== What events, tasks, and roles are regulated?
