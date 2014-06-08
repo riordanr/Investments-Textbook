@@ -3,17 +3,26 @@
 = Investments Textbook
 
 == Introduction
+
 === The Actors
+
 === Terminology
+
 === Notation
+
 === Basic Goals of Investing
-  This is a new part of the document.
+
+This is a new part of the document.
+
+latexmath:[$C = \alpha + \beta Y^{\gamma} + \epsilon$]
 
 == Securities Markets
 === What is a security?
 === Types of securities
 === Why do securities trade in markets?
 === Types of markets
+
+fhfhfh
 
 == Equity Markets
 === What is equity?

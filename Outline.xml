@@ -1,0 +1,193 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE book PUBLIC "-//OASIS//DTD DocBook XML V4.5//EN" "http://www.oasis-open.org/docbook/xml/4.5/docbookx.dtd">
+<?asciidoc-toc?>
+<?asciidoc-numbered?>
+
+<book lang="en">
+<bookinfo>
+    <title>Investments Textbook</title>
+</bookinfo>
+<chapter id="_introduction">
+<title>Introduction</title>
+<section id="_the_actors">
+<title>The Actors</title>
+</section>
+<section id="_terminology">
+<title>Terminology</title>
+</section>
+<section id="_notation">
+<title>Notation</title>
+</section>
+<section id="_basic_goals_of_investing">
+<title>Basic Goals of Investing</title>
+<simpara>This is a new part of the document.</simpara>
+<simpara><inlineequation>
+<alt><![CDATA[$C = \alpha + \beta Y^{\gamma} + \epsilon$]]></alt>
+<inlinemediaobject><textobject><phrase></phrase></textobject></inlinemediaobject>
+</inlineequation></simpara>
+</section>
+</chapter>
+<chapter id="_securities_markets">
+<title>Securities Markets</title>
+<section id="_what_is_a_security">
+<title>What is a security?</title>
+</section>
+<section id="_types_of_securities">
+<title>Types of securities</title>
+</section>
+<section id="_why_do_securities_trade_in_markets">
+<title>Why do securities trade in markets?</title>
+</section>
+<section id="_types_of_markets">
+<title>Types of markets</title>
+<simpara>fhfhfh</simpara>
+</section>
+</chapter>
+<chapter id="_equity_markets">
+<title>Equity Markets</title>
+<section id="_what_is_equity">
+<title>What is equity?</title>
+</section>
+<section id="_what_are_the_different_types_of_equities">
+<title>What are the different types of equities?</title>
+</section>
+<section id="_what_are_the_pay_offs_to_holding_equity">
+<title>What are the pay-offs to holding equity?</title>
+</section>
+<section id="_who_buys_and_sells_equities">
+<title>Who buys and sells equities?</title>
+</section>
+</chapter>
+<chapter id="_fixed_income_markets">
+<title>Fixed Income Markets</title>
+<section id="_what_is_a_bond">
+<title>What is a bond?</title>
+</section>
+<section id="_what_are_the_features_of_bonds">
+<title>What are the features of bonds?</title>
+</section>
+<section id="_what_are_the_pay_offs_to_holding_bonds">
+<title>What are the pay-offs to holding bonds?</title>
+</section>
+<section id="_who_buys_and_sells_bonds">
+<title>Who buys and sells bonds?</title>
+</section>
+</chapter>
+<chapter id="_derivatives_markets">
+<title>Derivatives Markets</title>
+<section id="_what_is_a_deirvative">
+<title>What is a deirvative?</title>
+</section>
+<section id="_what_are_the_features_of_derivatives">
+<title>What are the features of derivatives?</title>
+</section>
+<section id="_what_are_the_pay_offs_to_holding_derivatives">
+<title>What are the pay-offs to holding derivatives?</title>
+</section>
+<section id="_who_buys_and_sells_derivatives">
+<title>Who buys and sells derivatives?</title>
+</section>
+</chapter>
+<chapter id="_asset_pricing">
+<title>Asset Pricing</title>
+<section id="_what_is_an_efficient_market">
+<title>What is an efficient market?</title>
+</section>
+<section id="_what_does_mean_variance_optimization_mean">
+<title>What does mean-variance optimization mean?</title>
+</section>
+<section id="_what_is_the_capm_apt">
+<title>What is the CAPM / APT?</title>
+</section>
+<section id="_what_is_a_mulit_factor_model">
+<title>What is a mulit-factor model?</title>
+</section>
+<section id="_does_human_behaviour_affect_how_we_think_about_market_efficicency">
+<title>Does human behaviour affect how we think about market efficicency?</title>
+</section>
+</chapter>
+<chapter id="_the_empirical_properties_of_security_returns">
+<title>The Empirical Properties of Security Returns</title>
+<section id="_are_returns_normally_distributed">
+<title>Are returns normally distributed?</title>
+</section>
+<section id="_are_the_returns_of_equities_bonds_and_futures_normally_distributed">
+<title>Are the returns of equities, bonds, and futures normally distributed?</title>
+</section>
+<section id="_tests_of_the_capm_apt">
+<title>Tests of the CAPM / APT</title>
+</section>
+<section id="_ff_3_and_4_factor_models">
+<title>FF 3 and 4 factor models</title>
+</section>
+<section id="_liquidity_factors">
+<title>Liquidity factors</title>
+</section>
+</chapter>
+<chapter id="_trading_financial_assets">
+<title>Trading Financial Assets</title>
+<section id="_does_trading_have_an_impact_on_portfolio_returns">
+<title>Does trading have an impact on portfolio returns?</title>
+</section>
+<section id="_how_do_you_evaluate_a_market">
+<title>How do you evaluate a market?</title>
+</section>
+<section id="_what_is_an_intermediary">
+<title>What is an intermediary?</title>
+</section>
+<section id="_how_liquid_efficient_is_a_market">
+<title>How liquid / efficient is a market?</title>
+</section>
+<section id="_how_can_you_trade_assets_to_improve_your_long_term_investment_returns">
+<title>How can you trade assets to improve your long-term investment returns?</title>
+</section>
+</chapter>
+<chapter id="_portfolio_management">
+<title>Portfolio Management</title>
+<section id="_how_do_you_evaluate_risk_and_return_of_a_portfolio">
+<title>How do you evaluate risk and return of a portfolio?</title>
+</section>
+<section id="_what_is_diversification">
+<title>What is diversification?</title>
+</section>
+<section id="_how_do_you_build_a_portfolio">
+<title>How do you build a portfolio?</title>
+</section>
+<section id="_how_do_you_evaluate_a_portfolio">
+<title>How do you evaluate a portfolio?</title>
+</section>
+</chapter>
+<chapter id="_risk_management">
+<title>Risk Management</title>
+<section id="_what_are_the_different_types_of_risk">
+<title>What are the different types of risk?</title>
+</section>
+<section id="_how_can_you_identify_risk">
+<title>How can you identify risk?</title>
+</section>
+<section id="_what_is_the_role_of_a_risk_manager">
+<title>What is the role of a risk-manager?</title>
+</section>
+<section id="_what_are_the_most_important_issues_today_in_risk_management">
+<title>What are the most important issues today in risk management?</title>
+</section>
+<section id="_do_risk_models_do_a_good_job_of_quantifying_risk">
+<title>Do risk models do a good job of quantifying risk?</title>
+</section>
+</chapter>
+<chapter id="_regulation">
+<title>Regulation</title>
+<section id="_do_we_need_to_regulate_financial_markets">
+<title>Do we need to regulate financial markets?</title>
+</section>
+<section id="_what_is_the_principal_agent_problem">
+<title>What is the principal agent problem?</title>
+</section>
+<section id="_who_is_regulated_in_a_financial_market">
+<title>Who is regulated in a financial market?</title>
+</section>
+<section id="_what_events_tasks_and_roles_are_regulated">
+<title>What events, tasks, and roles are regulated?</title>
+</section>
+</chapter>
+</book>
